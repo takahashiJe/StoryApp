@@ -5,5 +5,5 @@ npm run serve
 
 ### backend
 ```
-uvicorn main:app --reload
+python main.py
 ```
